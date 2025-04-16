@@ -31,7 +31,7 @@ const Navbar = () => {
       <div className='flex items-center gap-4'>
         
       <button onClick={()=> navigate("./login")} className='bg-primary text-white px-8 py-3 rounded-full font-light hidden md:block'>
-        Create Accou
+        Create Account
       </button>
       </div>
     </div>
